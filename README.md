@@ -9,4 +9,11 @@ npm install
 npm start
 
 ```
+### Running the backend
+```
+cd server 
+npm install
+node index.js
+
+```
 Make sure to change the mysql credentials in server/index.js file
